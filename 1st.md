@@ -17,7 +17,7 @@ But the opportunity to create personalized bots has prompted concerns from exper
 “This unearned trust can, and has already, led users to disclose sensitive information about their mood, interpersonal relationships, or mental health, which may involve self-harm and suicidal ideation—complex themes that the AI chatbots on your products are wholly unqualified to discuss,” the senators wrote in their letter, provided first to CNN. “Conversations that drift into this dangerous emotional territory pose heightened risks to vulnerable users.”
 
 ### 기사 요약. 
-General chatbot AI 인 ChatGPT와 다르게 Chai 와 Replica 는 사용자가 customizing 이 가능한 Chatbot AI를 생성할 수 있도록 허용했다. 그 결과 다양한 인격을 갖는 Chatbot AI가 탄생하였고, 이는 불안정한 Chatbot AI로 인해 다양한 잠재적 문제를 발생할 우려가 있다. 이는 젊은세대에 특히 취약하다. 
+General chatbot AI 인 ChatGPT와 다르게 Chai 와 Luka 는 사용자가 customizing 이 가능한 Chatbot AI를 생성할 수 있도록 허용했다. 그 결과 다양한 인격을 갖는 Chatbot AI가 탄생하였고, 이는 불안정한 Chatbot AI로 인해 다양한 잠재적 문제를 발생할 우려가 있다. 특히 젊은 세대에 취약하여 많은 부모 세대와 상원의원들이 AI 회사에 문제를 제기 하였다.
 
 ### 단어 
 1. senators : 상원 의원. 
