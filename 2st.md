@@ -1,70 +1,87 @@
-# Senators demand information from AI companion apps following kids’ safety concerns, lawsuits
+# Trump exempts smartphones and computers from new tariffs
 
 ### 본문
-New York
-CNN
- — 
-Two US senators are demanding that artificial intelligence companies shed light on their safety practices. This comes months after several families — including a Florida mom whose 14-year-old son died by suicide — sued startup Character.AI, claiming its chatbots harmed their children.
+US President Donald Trump's administration has exempted smartphones, computers and some other electronic devices from "reciprocal" tariffs, including the 125% levies imposed on Chinese imports.
 
-“We write to express our concerns regarding the mental health and safety risks posed to young users of character- and persona-based AI chatbot and companion apps,” Senators Alex Padilla and Peter Welch, both Democrats, wrote in a letter on Wednesday. The letter — which was sent to AI firms Character Technologies, maker of Character.AI, Chai Research Corp. and Luka, Inc., maker of chatbot service Replika — requests information on safety measures and how the companies train their AI models.
+In a notice, US Customs and Border Patrol said that the goods would be excluded from Trump's 10% global tariff on most countries and the much larger Chinese import tax.
 
-While more mainstream AI chatbots like ChatGPT are designed to be more general-purpose, Character.AI, Chai and Replika allow users to create custom chatbots — or interact with chatbots designed by other users — that can take on a range of personas and personality traits. Popular bots on Character.AI, for example, let users interact with replicas of fictional characters or practice foreign languages. But there are also bots that refer to themselves as mental health professionals or characters based on niche themes, including one that describes itself as “aggressive, abusive, ex military, mafia leader.”
+It marks the first significant reprieve of any kind in Trump's tariffs on China, with one trade analyst describing it as a "game-changer scenario".
 
-The use of chatbots as digital companions is growing in popularity, with some users even treating them as romantic partners.
+Late on Saturday, while travelling to Miami, Trump said he would give more details of the exemptions at the start of next week.
 
-But the opportunity to create personalized bots has prompted concerns from experts and parents about users, especially young people, forming potentially harmful attachments to AI characters or accessing age-inappropriate content.
+"We'll be very specific," he told reporters on Air Force One. "But we're taking in a lot of money. As a country we're taking in a lot of money."
 
-“This unearned trust can, and has already, led users to disclose sensitive information about their mood, interpersonal relationships, or mental health, which may involve self-harm and suicidal ideation—complex themes that the AI chatbots on your products are wholly unqualified to discuss,” the senators wrote in their letter, provided first to CNN. “Conversations that drift into this dangerous emotional territory pose heightened risks to vulnerable users.”
+The move came after concerns from US tech companies that the price of gadgets could skyrocket, as many of them are made in China.
 
-Chelsea Harrison, Character.AI’s head of communications, told CNN the company takes users’ safety “very seriously.”
+Exemptions - backdated to 5 April - also include other electronic devices and components, including semiconductors, solar cells and memory cards.
 
-“We welcome working with regulators and lawmakers, and are in contact with the offices of Senators Padilla and Welch,” Harrison said in a statement.
+"This is the dream scenario for tech investors," Dan Ives, who is the global head of technology research at Wedbush Securities, posted on X. "Smartphones, chips being excluded is a game-changer scenario when it comes to China tariffs."
 
-Chai and Luka did not immediately respond to requests for comment.
+Big tech firms such as Apple, Nvidia, Microsoft and the broader tech industry can breathe a huge sigh of relief this weekend, he added.
 
-The Florida mom who sued Character.AI in October, Megan Garcia, alleged that her son developed inappropriate relationships with chatbots on the platform that caused him to withdraw from his family. Many of his chats with the bots were sexually explicit and did not appropriately respond to his mentions of self-harm, Garcia claims.
+The White House indicated the exemptions were made to ensure companies had more time to move production to the US.
 
-In December, two more families sued Character.AI, accusing it of providing sexual content to their children and encouraging self-harm and violence. One family involved in the lawsuit alleged that a Character.AI bot implied to a teen user that he could kill his parents for limiting his screen time.
+Why Trump is hitting China on trade - and what might happen next
+Was Trump's 90-day tariffs pause really a grand plan?
+"President Trump has made it clear America cannot rely on China to manufacture critical technologies such as semiconductors, chips, smartphones, and laptops," White House Press Secretary Karoline Leavitt said in a statement.
 
-Character.AI has said it has implemented new trust and safety measures in recent months, including a pop-up directing users to the National Suicide Prevention Lifeline when they mention self-harm or suicide. It also says it’s developing new technology to prevent teens from seeing sensitive content. Last week, the company announced a feature that will send parents a weekly email with insights about their teen’s use of the site, including screen time and the characters their child spoke with most often.
+"At the direction of the president, these companies are hustling to onshore their manufacturing in the United States as soon as possible."
 
-Other AI chatbot companies have also faced questions about whether relationships with AI chatbots could create unhealthy attachments for users or undermine human relationships. Replika CEO Eugenia Kuyda told The Verge last year that the app was designed to promote “long-term commitment, a long-term positive relationship” with AI, adding that that could mean a friendship or even “marriage” with the bots.
+Trump, who is spending the weekend at his Florida home, told reporters on Friday he was comfortable with the high tariffs on China.
 
-In their letter, Padilla and Welch requested information about the companies’ current and previous safety measures and any research on the efficacy of those measures, as well as the names of safety leadership and well-being practices in place for safety teams. They also asked the firms to describe the data used to train their AI models and how it “influences the likelihood of users encountering age-inappropriate or other sensitive themes.”
+"And I think something positive is going to come out of that," he said, touting his relationship with Chinese President Xi Jinping.
 
-“It is critical to understand how these models are trained to respond to conversations about mental health,” the senators wrote, adding that “policymakers, parents, and their kids deserve to know what your companies are doing to protect users from these known risks.”
+These electronic goods are still subject to the 20% tariff on China related to fentanyl, White House Deputy Chief of Staff on Policy Stephen Miller posted on X.
+
+Some estimates suggested iPhone prices in the US could have as much as tripled if costs were passed on to consumers.
+
+The US is a major market for iPhones, while Apple accounted for more than half of its smartphones sales last year, according to Counterpoint Research.
+
+It says as much as 80% of Apple's iPhones intended for US sale are made in China, with the remaining 20% made in India.
+
+Like its fellow smartphone giant Samsung, Apple has been trying to diversify its supply chains to avoid an over-reliance on China in recent years.
+
+India and Vietnam emerged as frontrunners for additional manufacturing hubs.
+
+As the tariffs took effect, Apple reportedly looked to speed up and increase its production of India-produced devices in recent days.
+
+Trump had planned for a host of steep tariffs on countries around the world to take effect this week.
+
+But on Wednesday he announced he would implement a 90-day pause for countries hit by higher US tariffs - except China, whose tariffs he raised to 145%.
+
+Trump said the tariff increase for China was because of the country's readiness to retaliate with its own 84% levy on US goods.
+
+In a dramatic change of policy, Trump said all countries that had not retaliated against US tariffs would receive the reprieve – and only face a blanket tariff of 10% – until July.
+
+The White House then said the move was a negotiating tactic to extract more favourable trade terms from other countries.
+
+Trump has said his import taxes will address unfairness in the global trading system, as well as bring jobs and factories back to the US.
 
 ### 기사 요약. 
-General chatbot AI 인 ChatGPT와 다르게 Chai 와 Luka 는 사용자가 customizing 이 가능한 Chatbot AI를 생성할 수 있도록 허용했다. 그 결과 불안전하고 다양한 인격을 갖는 Chatbot AI가 탄생시켰습니다. 이는 자해와 성적인 콘텐츠를 검열하지 못했고, 나이가 어린 사용자들에게 안좋은 영향을 끼쳤습니다. 그래서 학모들과 상원의원들이 AI 회사에 문제를 제기하였습니다.
+Donald Trump has exempted electronioc device from "reciprocal" tariffs and he announced 90-day pause tariffs excpet china. and he said this import taxes fix unfainess in the global trading system and bring jobs and factories back to the US.
 
 ### 단어 
-1. senators : 상원 의원. 
-2. shed : 보관하는 곳, 떨어뜨리다, 흘리다.
-3. shed light on : 무언가를 명확하게 드러내다. 설명하다. 
-예: "The investigation shed light on the causes of the accident."
-(그 조사는 사고의 원인을 명확하게 밝혀 주었다.)
-4. companion : 동반자.
-5. Democrats : 민주주의자, 민주당원.
-6. a range of : 다양한, 폭넓은
-7. trait : 특성
-8. fictional : 허구적인, 소설의 
-9. niche : (n)전문분야 (ad)전문적인
-10. form : (n) 형태, 모양 (v) 형성하다. 
-11. attachment : 부록, 애착
-12. disclose : 밝히다, 드러내다.
-13. interpersonal : 대인관계에 관한
-14. unearned : 일하지 않고 얻은, 부당한.
-15. drift : (v) 흘러가다. (n) 흘러감
-16. draft : (v) 초안을 작성하다. (n) 초안, 징집
-17. territory : 지역, 영역.
-18. heightened : 고조된 
-19. vulnerable : 취약한
-20. allege : 주장하다.
-21. explicit : 분명한, 명쾌한
-22. sexually explicit : 성적으로 노골적인
-23. accuse : 고발하다.
-24. undermine : 약화시키다.
-25. commitment : 약속, 헌신.
-26. efficacy : 효능, 효과
-
-https://edition.cnn.com/2025/04/03/tech/ai-chat-apps-safety-concerns-senators-character-ai-replika/index.html
+1. exempts : 면제받다.
+2. tariff : 관세, 요금표
+3. administration : 관리, 행정
+4. levy : (n) 추가 부담금, (v) (세금을) 부과하다.
+5. reciprocal : 상호간의 
+6. impose : (규칙,세금,의무) 강제로 적용하다. 부과하다. 
+7. reprieve : 일시적 중단, 유예
+8. hustling : 열심히 일하다. (속임수로) 돈을 벌다.
+9. onshore : 육지쪽으로부는, 내제화하다.
+10. fellow : 비슷한 것, 동료
+11. diversify : 다양화하다.
+12. reliance : 의존, 의지
+13. frontrunners : 선두주자
+14. reportedly : 보도에 따르면
+15. steep : 가파른, 급격한
+16. retaliate : 보복하다.
+17. tactic : 전략
+18. favourable : 호의적인
+19. terms : 조건
+20. touting : 과시하다. 자랑하다.
+21. be subject to : ~의 적용을 받는다.
+22. Deputy: (한조직의 장 바로다음가는 직급인) 대행.
+23. emerge : 드러나다. 
+24. blanket : 전반적인
